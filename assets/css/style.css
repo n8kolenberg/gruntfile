@@ -1,0 +1,71 @@
+body {
+	padding-top: 50px;
+}
+
+/*Images*/
+.img-Navbar {
+	width: 20px;
+	height: 100%;
+}
+
+
+.img-Masthead {
+	padding-top: 120px;
+	width: 125px;
+
+}
+
+/*END Images*/
+
+
+/**
+ * Styling the individual sections
+ */
+/* MastHead */
+#mastHead {
+	background: url("https://hd.unsplash.com/photo-1467173572719-f14b9fb86e5f");
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.jumbotron {
+	background: transparent;
+	color: whitesmoke;
+}
+/* End MastHead */
+
+
+/* Intro */
+#Intro p.lead {
+	color: grey;
+}
+
+#Intro h2 {
+	padding-top: 35px;
+}
+
+ #Intro h1.lead {
+ 	color: grey;
+ }
+
+/* End Intro */
+
+/* Portfolio */
+/* End Portfolio */
+
+
+/* Contact */
+/* End Contact */
+
+
+/* Custom */
+.lead {
+	padding-top: 20px;
+	color: whitesmoke;
+}
+/* End Custom */
+
+
+
